@@ -1,3 +1,9 @@
+HOW TO RUN 
+in terminal>>  javac PortContainerManagement.java
+>> javac PortContainerManagement
+
+
+
 
 #Sample run
 
