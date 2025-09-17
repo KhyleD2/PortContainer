@@ -1,6 +1,6 @@
 HOW TO RUN 
-in terminal>>  javac PortContainerManagement.java
->> javac PortContainerManagement
+in terminal >>  javac PortContainerManagement.java
+in terminal>> javac PortContainerManagement
 
 
 
